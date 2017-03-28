@@ -16,8 +16,8 @@ try this..
 2. view list of employees
 
 Urls:
-http://localhost:8080/SpringHibernateMySqlDemo/
-http://localhost:8080/SpringHibernateMySqlDemo/employee.json
-http://localhost:8080/SpringHibernateMySqlDemo/employee.xml
+* http://localhost:8080/SpringHibernateMySqlDemo/
+* http://localhost:8080/SpringHibernateMySqlDemo/employee.json
+* http://localhost:8080/SpringHibernateMySqlDemo/employee.xml
 
 
