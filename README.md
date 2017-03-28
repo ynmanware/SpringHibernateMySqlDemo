@@ -1,7 +1,9 @@
 # SpringHibernateMySqlDemo
 
 Simple end to end example for Spring + Hibernate + MySql configuration (JSP is used on the UI side)
-*Prerequisite* is to install Mysql, have Tomcat 7.0+ and create a database with name 'myn'
+
+# Prerequisite 
+install Mysql, have Tomcat 7.0+ and create a database with name 'myn'
 
 It is a maven based dynamic java project.
 Checkout, maven update, and deploy the project.
